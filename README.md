@@ -1,4 +1,4 @@
-# 📺t Plugin WordPress Telly
+# 📺 Plugin WordPress Telly
 
 **Telly** adalah plugin WordPress yang memudahkan Anda menampilkan video atau playlist YouTube langsung di halaman atau postingan menggunakan shortcode. Dilengkapi dengan sistem caching, kontrol tampilan, dan desain responsif, plugin ini cocok untuk blogger, content creator, hingga website institusi.
 
